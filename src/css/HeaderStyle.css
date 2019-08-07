@@ -1,0 +1,28 @@
+
+.header {    
+    height: 100px;    
+    color: #364135;
+    font-size: 30px;
+    display: flex;    
+}
+.shopingCart {     
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 240px; 
+}
+
+.socialmedia {        
+    width: 50%; 
+    padding-top: 20px; 
+    padding-left: 500px;
+}
+
+#search {       
+    padding-right: 30px; 
+}
+
+#facebook {
+    padding-right: 30px
+}
+
+
